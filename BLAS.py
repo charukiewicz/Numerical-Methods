@@ -4,7 +4,7 @@ Created on Mon Sep 16 18:35:36 2013
 
 @author: Christian Charukiewicz (netid: charuki1)
 
-This program serves to demonstrate the differences between different BLAS operations. Creates random vectors and matrices, then measures the time for operations to execute. 
+This program serves to demonstrate the differences between different BLAS operations. Creates random vectors and matrices, then measures the time for operations to execute.  Displays output in console and in a matplotlib graph. 
 
 Level One: vector-vector operations
 Level Two: matrix-vector operations
