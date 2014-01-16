@@ -1,0 +1,19 @@
+_|      _|  _|    _|  _|      _|  _|_|_|_|  _|_|_|    _|_|_|    _|_|_|    _|_|    _|       
+_|_|    _|  _|    _|  _|_|  _|_|  _|        _|    _|    _|    _|        _|    _|  _|        
+_|  _|  _|  _|    _|  _|  _|  _|  _|_|_|    _|_|_|      _|    _|        _|_|_|_|  _|        
+_|    _|_|  _|    _|  _|      _|  _|        _|    _|    _|    _|        _|    _|  _|        
+_|      _|    _|_|    _|      _|  _|_|_|_|  _|    _|  _|_|_|    _|_|_|  _|    _|  _|_|_|_|  
+
+                                                                          
+_|      _|  _|_|_|_|  _|_|_|_|_|  _|    _|    _|_|    _|_|_|      _|_|_|  
+_|_|  _|_|  _|            _|      _|    _|  _|    _|  _|    _|  _|        
+_|  _|  _|  _|_|_|        _|      _|_|_|_|  _|    _|  _|    _|    _|_|    
+_|      _|  _|            _|      _|    _|  _|    _|  _|    _|        _|  
+_|      _|  _|_|_|_|      _|      _|    _|    _|_|    _|_|_|    _|_|_|    
+
+Author: Christian Charukiewicz
+Programming Language: Python
+
+This repository is a collection of project files from the Numerical Methods course at the University of Illinois at Ubrana-Champaign.
+
+Most of the files are designed as standalone tools to perform a specific task or function.  A description of each is available in the comments of each file.
