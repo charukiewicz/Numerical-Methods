@@ -4,7 +4,7 @@
 
 This program converts an input matrix to Compressed Sparse Row (CSR) structure.
 
-The second part of this program uses the scipy library to convert from CSR to LIL format.
+The last part of this program uses the scipy library to convert from CSR to LIL format.
 
 More info: http://en.wikipedia.org/wiki/Sparse_matrix#Compressed_sparse_row_.28CSR_or_CRS.29
 
