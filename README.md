@@ -2,6 +2,7 @@ Numerical Methods
 ========
 
 Author: Christian Charukiewicz
+
 Programming Language: Python
 
 --------
